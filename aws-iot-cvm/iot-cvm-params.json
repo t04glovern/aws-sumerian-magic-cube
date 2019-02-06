@@ -1,0 +1,18 @@
+[
+    {
+        "ParameterKey": "DeviceTableName",
+        "ParameterValue": "iot-cvm-device-info"
+    },
+    {
+        "ParameterKey": "LambdaCodeBucket",
+        "ParameterValue": "devopstar"
+    },
+    {
+        "ParameterKey": "LambdaCodeS3Key",
+        "ParameterValue": "resources/aws-iot-vpn-spawner/iot-cvm.zip"
+    },
+    {
+        "ParameterKey": "LambdaFunctionName",
+        "ParameterValue": "iot-cvm"
+    }
+]
